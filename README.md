@@ -4,6 +4,10 @@ A small Windows app that pairs a Logitech LIGHTSPEED mouse with a USB receiver, 
 
 This is an independent project. It is not made, endorsed or supported by Logitech.
 
+## Receiver
+
+This app was tested with this replacement receiver: **[Lightspeed USB receiver on AliExpress](https://www.aliexpress.com/item/1005012759621235.html)**. It's a third-party product from an independent seller, not a Logitech one.
+
 ## Download and run
 
 1. Download `LightspeedPair.exe` from the [Releases](../../releases) page.
